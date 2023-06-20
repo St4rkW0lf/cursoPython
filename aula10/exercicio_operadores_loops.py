@@ -6,9 +6,9 @@ for c in range(0, 5):
     else:
         print("Sexo feminino\n")
 
-    nome = input('Informe o {c}º nome: ')
+    nome = input(f'Informe o {c}º nome: ')
 
-    idade = input('Informe a {c}ª idade: ')
+    idade = input(f'Informe a {c}ª idade: ')
 
-    print('O {c} nome é: ', nome)
-    print('A {c} idade é: ', idade)
+    print(f'O {c} nome é: ', nome)
+    print(f'A {c} idade é: ', idade)
