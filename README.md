@@ -8,4 +8,4 @@ Este repositório foi criado para armazenar os arquivos desenvolvidos durante o 
 Aqui você encontrará todos os projetos, exercícios e trabalhos práticos desenvolvidos durante as aulas, organizados em pastas específicas para facilitar o acesso aos conteúdos.
 
 📥 **Data inicial:** 16/06/2023
-📤 **Data final:** em andamento
+📤 **Data final:** 24/06/2023
